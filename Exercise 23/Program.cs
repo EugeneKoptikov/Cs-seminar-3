@@ -5,8 +5,6 @@ Console.Write("Укажите интересуемое число, до кото
 int number = Convert.ToInt32(Console.ReadLine());
 int tab;
 
-Console.WriteLine("Программа определяет является ли введенное пятизначное число палиндромом");
-
 // Решил использовать рукописный метод, хотя без него можно обойтись:
 int Cube(int arg1, int arg2, int arg3)
 {
